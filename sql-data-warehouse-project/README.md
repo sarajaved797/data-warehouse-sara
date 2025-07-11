@@ -4,8 +4,7 @@
 ### Note from Sara Javed
 
 I followed this Data Warehouse and Analytics project as a guided build to develop and demonstrate my skills.  
-My personal contributions include loading ERP and CRM datasets into SQL Server, running ETL processes across the Bronze, Silver, and Gold layers,  
-and writing SQL queries to analyze sales trends and customer behavior.  
+My personal contributions include loading ERP and CRM datasets into SQL Server, running ETL processes across the Bronze, Silver, and Gold layers,  and writing SQL queries to analyze sales trends and customer behavior.  
 
 This project showcases my understanding of data warehousing concepts, SQL development, data cleansing, star schema modeling, and basic analytics.  
 It serves as a portfolio piece reflecting my readiness for entry-level Data Analyst roles.
