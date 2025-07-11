@@ -1,8 +1,16 @@
 
 # Data Warehouse and Analytics Project
 
-👉 See [MY_CONTRIBUTION.md](./MY_CONTRIBUTION.md) for my personal scope.
+### Note from Sara Javed
 
+I followed this Data Warehouse and Analytics project as a guided build to develop and demonstrate my skills.  
+My personal contributions include loading ERP and CRM datasets into SQL Server, running ETL processes across the Bronze, Silver, and Gold layers,  
+and writing SQL queries to analyze sales trends and customer behavior.  
+
+This project showcases my understanding of data warehousing concepts, SQL development, data cleansing, star schema modeling, and basic analytics.  
+It serves as a portfolio piece reflecting my readiness for entry-level Data Analyst roles.
+
+---
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
